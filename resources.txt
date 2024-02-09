@@ -1,0 +1,5 @@
+https://registry.terraform.io/providers/Mongey/kafka/latest/docs
+https://ioflood.com/blog/python-kafka/#:~:text=Using%20Apache%20Kafka%20with%20Python%20allows%20you%20to%20leverage%20Python's,and%20consume%20messages%20in%20Python.
+https://huzzefakhan.medium.com/install-and-setup-apache-kafka-on-linux-b430d8796dae
+https://huzzefakhan.medium.com/apache-kafka-in-python-d7489b139384
+https://kafka.apache.org/documentation/
